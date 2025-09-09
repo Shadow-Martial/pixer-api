@@ -1,2 +1,0 @@
-# pixer-api
-
